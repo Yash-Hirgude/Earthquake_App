@@ -1,0 +1,2 @@
+rootProject.name = "Earth_Quake_APP"
+include ':app'
